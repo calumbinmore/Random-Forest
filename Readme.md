@@ -1,4 +1,4 @@
-## Random Forest From Scratch
+## Predicting Grid Demand using Random Forest
 
 This Project is showing the steps necessary to build a random_forest
 algorithm from scratch in Python. It starts by building a decision tree and 

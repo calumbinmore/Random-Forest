@@ -8,6 +8,9 @@ This is done from the perspective of someone new to data science, so the
 issues and questions that I had, which are included in the project, will 
 likely be similar to those that most beginners have.
 
+In the future I hope to use it as part of a larger project. 
+
+
 By Calum Binmore  
 
 
